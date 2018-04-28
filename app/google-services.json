@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "409653340977",
+    "firebase_url": "https://kudos-9ca39.firebaseio.com",
+    "project_id": "kudos-9ca39",
+    "storage_bucket": "kudos-9ca39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409653340977:android:bf23a2dc710e83b0",
+        "android_client_info": {
+          "package_name": "com.example.animesh.kudos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409653340977-fku7bsdm4uavbdqt0sgdfvcsnoldf4ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.animesh.kudos",
+            "certificate_hash": "a2eb948a327602ca6a2b26f0cef152fde49e06fe"
+          }
+        },
+        {
+          "client_id": "409653340977-0ap5t2tukdc9rp0rok49u55ats1utc9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdK_7X1PiqFiDh1YrpJSIVBmXFnyZrCIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409653340977-0ap5t2tukdc9rp0rok49u55ats1utc9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
